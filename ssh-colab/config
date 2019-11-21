@@ -1,0 +1,5 @@
+#colab accout
+Host bitbucket.org
+HostName bitbucket.org
+User suwater
+IdentityFile /root/.ssh/id_rsa_colab
