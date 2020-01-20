@@ -1,4 +1,4 @@
-      time	    open	   high	          low            close	                vol	  AMO.AMOW  	  AMO.AMO1  	  AMO.AMO2  	 MACD.DIF   	 MACD.DEA   	 MACD.MACD  	
+Index	    open	   high	          low            close	                vol	  AMO.AMOW  	  AMO.AMO1  	  AMO.AMO2  	 MACD.DIF   	 MACD.DEA   	 MACD.MACD  	
  2018/05/07	 2649.10	 2686.22	 2638.17	 2683.85	       26608010	 3938756.25	           	           	       0.00	       0.00	       0.00	
  2018/05/08	 2683.84	 2736.76	 2682.79	 2722.88	       31644364	 4536681.50	           	           	       3.11	       0.62	       4.98	
  2018/05/09	 2723.09	 2725.20	 2706.48	 2717.24	       20264916	 2683648.25	           	           	       5.07	       1.51	       7.11	
