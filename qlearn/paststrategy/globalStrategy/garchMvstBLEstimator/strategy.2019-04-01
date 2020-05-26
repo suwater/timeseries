@@ -1,0 +1,1 @@
+["{\"strategy\":[{\"strategy\":\"globalStrategy\"}],\"estimator\":[{\"estimator\":\"garchMvstBLEstimator\"}],\"time\":[\"2019-04-01\"],\"last.weight\":{\"ShouKaiGuFen\":[0],\"XinGangGuFen\":[0.0001],\"ZhongGuoWaiYun\":[0.0014],\"GuoXinJianKang\":[0.9985],\"HuaLingGangTie\":[2.9632e-06]}}"]
