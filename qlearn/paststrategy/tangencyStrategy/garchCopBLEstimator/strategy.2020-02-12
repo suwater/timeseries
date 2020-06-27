@@ -1,1 +1,1 @@
-["{\"strategy\":[{\"strategy\":\"tangencyStrategy\"}],\"estimator\":[{\"estimator\":\"garchCopBLEstimator\"}],\"time\":[\"2020-02-12\"],\"last.weight\":{\"LongPingGaoKe\":[0.6337],\"GuangHuanXinWang\":[0.3663]}}"]
+["{\"strategy\":[{\"strategy\":\"tangencyStrategy\"}],\"estimator\":[{\"estimator\":\"garchCopBLEstimator\"}],\"time\":[\"2020-02-12\"],\"last.weight\":{\"LongPingGaoKe\":[0.6239],\"GuangHuanXinWang\":[0.3761]}}"]

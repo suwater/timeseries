@@ -1,1 +1,1 @@
-["{\"strategy\":[{\"strategy\":\"tangencyStrategy\"}],\"estimator\":[{\"estimator\":\"estBLEstimator\"}],\"time\":[\"2020-02-28\"],\"last.weight\":{\"HuaHaiYaoYe\":[0.0434],\"XinChaoNengYuan\":[0.2278],\"ShangHaiJiDian\":[0.5743],\"HengLiYeYa\":[0.0901],\"ShengNongFaZhan\":[0.0644]}}"]
+["{\"strategy\":[{\"strategy\":\"tangencyStrategy\"}],\"estimator\":[{\"estimator\":\"estBLEstimator\"}],\"time\":[\"2020-02-28\"],\"last.weight\":{\"LanGuangFaZhan\":[0.1934],\"HuaDaJiYin\":[0.8066]}}"]
