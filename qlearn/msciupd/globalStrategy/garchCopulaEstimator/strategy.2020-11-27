@@ -1,0 +1,1 @@
+["{\"strategy\":[{\"strategy\":\"globalStrategy\"}],\"estimator\":[{\"estimator\":\"garchCopulaEstimator\"}],\"time\":[\"2020-11-27\"],\"last.weight\":{\"GuoTouDianLi\":[0.0007],\"ChangJiangDianLi\":[0.0003],\"LanQiKeJi\":[0.0966],\"ShiTouKeJi\":[0.0577],\"KangXiNuo\":[0.6523],\"LianHuaKeJi\":[0.0005],\"KangHuaShengWu\":[0.1305],\"JinLongYu\":[0.0615]}}"]

@@ -1,0 +1,1 @@
+["{\"strategy\":[{\"strategy\":\"globalStrategy\"}],\"estimator\":[{\"estimator\":\"garchCopulaEstimator\"}],\"time\":[\"2020-06-08\"],\"last.weight\":{\"PianZaiHuang\":[0],\"GuiZhouMaoTai\":[0],\"YuNongShangHang\":[0.2811],\"YongHuiChaoShi\":[0.0001],\"ZhongKeRuan\":[0.7184],\"LanFanYiLiao\":[0.0002],\"WanFuShengWu\":[0.0002]}}"]
