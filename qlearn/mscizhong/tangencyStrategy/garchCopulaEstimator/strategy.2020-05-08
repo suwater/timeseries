@@ -1,0 +1,1 @@
+["{\"strategy\":[{\"strategy\":\"tangencyStrategy\"}],\"estimator\":[{\"estimator\":\"garchCopulaEstimator\"}],\"time\":[\"2020-05-08\"],\"last.weight\":{\"BaoXinRuanJian\":[0.1599],\"BoLaiYa\":[0.0223],\"JianYouGuFen\":[0.1273],\"GaoDeHongWai\":[0.1261],\"WoWuShengWu\":[0.0755],\"JianFanShengWu\":[0.2151],\"OuPuKangShi\":[0.1856],\"ShengBangGuFen\":[0.0883]}}"]
